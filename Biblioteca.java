@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package entregables3;
+
 
 import java.io.File;
 import java.util.ArrayList;
@@ -24,11 +20,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Text;
 
-/**
- *
- * @author Joan_2k2
- */
-//@XmlRootElement
+
 public class Biblioteca {
 
     private ArrayList<Libro> almaLibros;
