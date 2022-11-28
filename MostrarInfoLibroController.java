@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMLController.java to edit this template
- */
-package entregables3;
+
 
 import java.io.File;
 import java.net.URL;
@@ -22,11 +18,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-/**
- * FXML Controller class
- *
- * @author Joan_2k2
- */
+
 public class MostrarInfoLibroController implements Initializable {
 
     @FXML
