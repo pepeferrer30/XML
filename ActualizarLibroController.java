@@ -1,5 +1,4 @@
 
-package entregables3;
 
 import java.net.URL;
 import java.util.ArrayList;
